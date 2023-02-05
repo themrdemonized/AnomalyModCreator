@@ -13,4 +13,4 @@ The app will create folders and files in these locations with your `modName`
 	{modName}\gamedata\scripts\{modName}.script
 	{modName}\gamedata\scripts\{modName}_mcm.script
 ```
- 
+ ![image](https://user-images.githubusercontent.com/46323442/216818055-d8365608-5a0f-4c02-abdd-c5ca627f0c6e.png)
